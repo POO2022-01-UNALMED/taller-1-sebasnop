@@ -1,0 +1,2 @@
+Ahora sí puedo crear un commit porque tengo un archivo en la carpeta.
+No identifica carpetas vacías.
