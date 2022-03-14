@@ -5,3 +5,6 @@ Sebastian Valencia Zapata
 Aspiro tener conocimientos más profundos sobre POO que me permitan diseñar aplicaciones de una forma más ordenada.
 También sé que tengo mucho por aprender de las personas más expertas que dan el curso.
 Por último, me gustaría conocer compañeros con gustos similares a los míos.
+
+Ahora sí puedo crear un commit porque tengo un archivo en la carpeta.
+No identifica carpetas vacías.
