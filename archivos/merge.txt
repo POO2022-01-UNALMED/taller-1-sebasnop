@@ -8,3 +8,8 @@ Por último, me gustaría conocer compañeros con gustos similares a los míos.
 
 Ahora sí puedo crear un commit porque tengo un archivo en la carpeta.
 No identifica carpetas vacías.
+
+Supongo que la pregunta se refiere a editar 2 archivos con el mismo nombre en diferentes repositorios.
+Es importante tener cuidado porque las personas pueden modificar una parte específica del archivo con modificaciones diferentes.
+Por lo tanto, Git y Github no sabrían cuál guardar como la versión real.
+Es necesario conocer qué se hizo con el archivo en otro respositorio para nosotros modificarlo desde nuestro repositorio local.
