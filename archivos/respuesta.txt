@@ -1,0 +1,1 @@
+No realizó el commit porque dice "nothing to commit, working tree clean"
